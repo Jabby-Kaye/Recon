@@ -1,0 +1,59 @@
+.text, .la{
+  text-align: center;
+}
+
+.text{
+  background-color: #e9e9e9;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text h3{
+  font-size: 40px;
+  color: crimson;
+  margin: 0;
+}
+
+.text button{
+    background-color: #df585a;
+    border-radius: 5px;
+    width: 100px;
+
+}
+
+ tr button{
+  border: 3px solid blue;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+}
+.pop{
+  position: relative;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 60px;
+  background-color: #f8d494;
+  text-align: center;
+  border: 5px solid crimson;
+  display:none;
+}
+
+
+.baba{
+  position: absolute;
+  top: 50;
+  left:50%;
+  transform: translate(-50%, -50%);
+  margin: 50vh auto 0;
+}
+
+}
+
+.la{
+  background-color: #fce4d9;
+  font-size: 10px;
+}
